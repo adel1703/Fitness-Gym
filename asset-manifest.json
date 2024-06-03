@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Fitness-Gym/static/css/main.6403fe9e.css",
+    "main.js": "/Fitness-Gym/static/js/main.e5efa5aa.js",
+    "static/media/Calisthenic.jpeg.png": "/Fitness-Gym/static/media/Calisthenic.jpeg.215c0302f512d4935bf2.png",
+    "static/media/pngtree-3d-body-builder-gym-logo-image-png-image_11437963.png": "/Fitness-Gym/static/media/pngtree-3d-body-builder-gym-logo-image-png-image_11437963.3e62b37b14b8453d390d.png",
+    "static/media/gym.png": "/Fitness-Gym/static/media/gym.6e701417c428e2fbc267.png",
+    "index.html": "/Fitness-Gym/index.html",
+    "main.6403fe9e.css.map": "/Fitness-Gym/static/css/main.6403fe9e.css.map",
+    "main.e5efa5aa.js.map": "/Fitness-Gym/static/js/main.e5efa5aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6403fe9e.css",
+    "static/js/main.e5efa5aa.js"
+  ]
+}
